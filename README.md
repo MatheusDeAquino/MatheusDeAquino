@@ -1,18 +1,19 @@
 <h1 align="center">Hello! I'm Matheus de Aquino</h1>
-    <h3 align="center">A passionate for FrontEnd development</h3>
-		<ul>
-	<li>My new chalenge is to learn React <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" wifth="40" height="40" alt="React Logo"></a></li>
-	<li>I'm looking for a Junior opportunity to make real projects with others devs 💻</li>
-  </ul>  
-	<h3 align="left">Connect with me:</h3>
+<h3 align="center">A passionate for FrontEnd development and UX/UI Design</h3>
+	<ul>
+		<li>My new chalenge is a Case of UX/UI Design about Polynesian Canoe Paddle store from Rio de Janeiro</li>
+		<li><a href="https://www.figma.com/br/ui-design-tool/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="FIGMA icon" width="40" height="40" /></a>
+		</li>
+  	</ul>  
+<h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://www.linkedin.com/in/matheus-de-aquino/" target="blank">
-            <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-                alt="linkedin Mat de Aquino" height="30" width="40" />
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin Mat de Aquino" height="30" width="40" />
         </a>
     </p>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
+	<a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" wifth="40" height="40" alt="React Logo"></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
